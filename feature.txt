@@ -1,0 +1,6 @@
+VS Code Multi-Cursor Feature
+
+This branch demonstrates how to use the multi-cursor feature in VS Code.
+You can hold Alt (Windows) or Option (Mac) and click in multiple places
+to edit them all at once. This is useful for renaming variables or
+editing repeated lines simultaneously.
