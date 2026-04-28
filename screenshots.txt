@@ -1,0 +1,28 @@
+Git Assignment Screenshots
+==========================
+
+1. Initial commit
+   Screenshot shows: terminal output after running `git commit -m "Add initial README"`
+   [paste link to screenshot or describe what was shown]
+
+2. Branch creation
+   Screenshot shows: output of `git branch feature` and `git checkout feature`
+   [paste link to screenshot or describe]
+
+3. Feature addition
+   Screenshot shows: feature.txt file and `git commit` confirming the branch commit
+
+4. Push to GitHub
+   Screenshot shows: `git push -u origin main` output and the repo live on GitHub
+
+5. Pull request
+   Screenshot shows: the PR open on GitHub with title and description
+
+6. Inline comments
+   Screenshot shows: the two inline review comments on the Files Changed tab
+
+7. Merge
+   Screenshot shows: "Pull request successfully merged" confirmation
+
+8. Branch deletion
+   Screenshot shows: the "branch was deleted" message on GitHub
